@@ -1,0 +1,5 @@
+.vscode
+.sonarlint
+debug.log
+node_modules
+bundle.js
